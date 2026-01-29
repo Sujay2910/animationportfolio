@@ -1,27 +1,13 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import m1 from "../assets/m1.png"
-import m2 from "../assets/m2.png"
+import m2 from "../assets/tejas.jpeg"
 import w1 from "../assets/w1.png"
-import w2 from "../assets/w2.png"
+import w2 from "../assets/abhi.jpeg"
 
 const testimonials = [
 
-  {
-    name: "Vivek Nikam",
-    role: "Data Scienti at HCL Technologies",
-    review:
-      "Sujay is a visionary developer. His attention to detail and creativity blew us away. Our project was a massive success because of him.",
-    image: m1,
-  },
-
-  {
-    name: "Varad Argade",
-    role: "UI/UX Designer at PixelWorks",
-    review:
-      "Working with Sujay was an absolute pleasure. He brings design and code together like magic. Highly recommend him!",
-    image: w1,
-  },
+  
 
   {
     name: "Tejas Dubal",
@@ -38,6 +24,7 @@ const testimonials = [
       "Sujay transformed our outdated platform into something modern and powerful. His skills are world-class.",
     image: w2,
   },
+  
 
 ];
 

@@ -3,9 +3,9 @@ import { FaGithub, FaLinkedin, FaXTwitter, FaInstagram } from "react-icons/fa6";
 
 const socials = [
   { Icon: FaXTwitter, label: "X", href: "https://twitter.com" },
-  { Icon: FaLinkedin, label: "LinkedIn", href: "https://linkedin.com" },
-  { Icon: FaGithub, label: "GitHub", href: "https://github.com" },
-  { Icon: FaInstagram, label: "Instagram", href: "https://instagram.com" },
+  { Icon: FaLinkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/sujay-bote-962637301/" },
+  { Icon: FaGithub, label: "GitHub", href: "https://github.com/Sujay2910" },
+  { Icon: FaInstagram, label: "Instagram", href: "https://www.instagram.com/mr.sujaybote46" },
 ];
 
 const glowVariants = {

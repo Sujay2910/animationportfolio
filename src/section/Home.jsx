@@ -12,9 +12,9 @@ import {
 
 const socials = [
   { Icon: FaXTwitter, label: "X", href: "https://twitter.com" },
-  { Icon: FaLinkedin, label: "LinkedIn", href: "https://linkedin.com" },
-  { Icon: FaGithub, label: "GitHub", href: "https://github.com" },
-  { Icon: FaInstagram, label: "Instagram", href: "https://instagram.com" },
+  { Icon: FaLinkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/sujay-bote-962637301/" },
+  { Icon: FaGithub, label: "GitHub", href: "https://github.com/Sujay2910" },
+  { Icon: FaInstagram, label: "Instagram", href: "https://www.instagram.com/mr.sujaybote46" },
 ];
 
 export default function Home() {
@@ -133,7 +133,7 @@ export default function Home() {
               transition={{ delay: 0.8, duration: 0.8 }}
             >
               <a
-                href="#projects"
+                href="#project"
                 className="
                   px-6 py-3 rounded-full font-medium text-lg text-white
                   bg-gradient-to-r from-[#1cd8d2] via-[#00bf8f] to-[#302663]
